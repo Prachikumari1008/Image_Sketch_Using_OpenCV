@@ -4,7 +4,7 @@ Convert uploaded images into sketches using Streamlit and OpenCV.
 
 ## Demo
 
-![Demo](demo.gif)
+![(https://github.com/Prachikumari1008/Image_Sketch_Using_OpenCV/tree/master/Sketch%20the%20image/output)]
 
 ## Features
 
@@ -14,4 +14,13 @@ Convert uploaded images into sketches using Streamlit and OpenCV.
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/Prachikumari1008/Image_Sketch_Using_OpenCV.git
+2. Install dependencies: pip install -r requirements.txt
+
+   
+## Usage
+
+1. Run the application: streamlit run app.py
+2. Upload an image using the sidebar.
+3. View the original image and its sketch in the main section.
+
