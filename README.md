@@ -4,7 +4,7 @@ Convert uploaded images into sketches using Streamlit and OpenCV.
 
 ## Demo
 
-![(https://github.com/Prachikumari1008/Image_Sketch_Using_OpenCV/tree/master/Sketch%20the%20image/output)]
+![Sketch the image/output/Image Sketching.png]
 
 ## Features
 
